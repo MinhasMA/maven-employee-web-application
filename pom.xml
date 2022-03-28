@@ -94,7 +94,7 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<name>Nexus Release Repository</name>
+			<name>My Nexus Release Repository</name>
 			<url>${nexus.host.url}/repository/nexus-release/</url>
 		</repository>
 		<snapshotRepository>
